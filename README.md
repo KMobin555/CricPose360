@@ -54,6 +54,8 @@ The dataset is split into:
 - **Validation Set**: 20%
 - **Test Set**: 10%
 
+**Dataset Availability:** The CricPose360 dataset is available upon request.
+
 
 ## 🏃‍♂️ **Pose-Enhanced Data**
 
