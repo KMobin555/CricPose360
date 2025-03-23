@@ -4,6 +4,10 @@
 
 CricPose360 is a dataset and model pipeline designed for **real-time cricket shot classification**. This project introduces a novel **pose-enhanced approach** that improves classification accuracy by utilizing **skeleton keypoints** extracted from videos using the **YOLOv8 model**. The CricPose360 dataset consists of **3,030 annotated cricket videos**, featuring **10 distinct cricket shots**.
 
+
+For more details, you can refer to the [Research Paper](https://drive.google.com/file/d/1Qs0xUE2MuLBq27IvWL7I4Lf8cGnkUb_6/view) on the methodology and results.
+
+
 ---
 
 ## 📂 **Project Structure**
